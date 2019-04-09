@@ -1,0 +1,38 @@
+/*
+* Moira Gervay
+* Padua Panda Travel Agency
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { width:85%; margin: auto;
+    background-image: linear-gradient(to right, #B0F3FD, #DBFFD1);
+} 
+
+/*Header font and color changes*/
+h1 {font-family: fantasy; color: darkblue;}
+h3 {font-family: fantasy; color: darkgreen;}
+h4 {font-family: fantasy; color: darkgreen;}
+
+/*Image stats*/
+img { width: 100px; height: 150px;} 
+#sandybeach {width: 250px; height:150 px;}
+#grassybeach {width: 250px; height:150 px;}
+#sunset1 {width: 250px; height:150 px;}
+#reefdive {width: 250px; height: 150 px;}
+#sailing {width: 150px; height: 150 px;}
+#sunset2 {width: 250px; height: 150 px; }
+
+/*Figure floating*/
+#figure1 {float: left;}
+#figure2 {float: left;}
+
+/*Table color*/
+thead { background-color: white; }
+tbody {background-color: white; }
